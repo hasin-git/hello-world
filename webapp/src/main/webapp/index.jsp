@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Registration Form for DevOps- Edited-V2!</h1>
-    <p>Edited Second Time</p>
+    <h1>Registration Form for DevOps!</h1>
+    <p>Not Edited</p>
     <p>Please fill in this form to create an account.</p>
     <hr>
      

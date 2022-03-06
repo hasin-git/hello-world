@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Registration Form for DevOps! Edited-V3</h1>
-    <p>Edited Now - Third</p>
+    <h1>Registration Form for DevOps Professional Certification! </h1>
+    <p>Ansible - Automation Learning </p>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
